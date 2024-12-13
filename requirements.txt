@@ -1,0 +1,3 @@
+yt_dlp==2024.10.22
+rembg==2.0.60
+onnxruntime==1.19.2
